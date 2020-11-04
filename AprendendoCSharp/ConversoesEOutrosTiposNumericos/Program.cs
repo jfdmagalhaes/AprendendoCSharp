@@ -4,23 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1_PrimeiroProjeto
+namespace _2_ConversoesEOutrosTiposNumericos
 {
-    class Program
+   class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 1");
+            Console.WriteLine("Executando projeto 2");
 
             double salario;
-;
             salario = 1200.70;
 
-            Console.WriteLine(salario);
+            int salarioEmInteiro;
+            salarioEmInteiro = (int)salario;
 
-            double idade;
-            idade = 15.0 / 2;
-            Console.WriteLine(idade);
+            Console.WriteLine(salarioEmInteiro);
+
+            int idade;
+            idade = 16;
 
             Console.WriteLine("A execução acabou. Tecle enter para sair...");
             Console.ReadLine();
