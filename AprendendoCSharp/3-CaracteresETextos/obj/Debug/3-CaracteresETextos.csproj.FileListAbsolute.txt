@@ -1,0 +1,6 @@
+C:\Estudo\csharp1\AprendendoCSharp\3-CaracteresETextos\bin\Debug\3-CaracteresETextos.exe.config
+C:\Estudo\csharp1\AprendendoCSharp\3-CaracteresETextos\bin\Debug\3-CaracteresETextos.exe
+C:\Estudo\csharp1\AprendendoCSharp\3-CaracteresETextos\bin\Debug\3-CaracteresETextos.pdb
+C:\Estudo\csharp1\AprendendoCSharp\3-CaracteresETextos\obj\Debug\3-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Estudo\csharp1\AprendendoCSharp\3-CaracteresETextos\obj\Debug\3-CaracteresETextos.exe
+C:\Estudo\csharp1\AprendendoCSharp\3-CaracteresETextos\obj\Debug\3-CaracteresETextos.pdb
